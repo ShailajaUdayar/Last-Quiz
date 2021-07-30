@@ -1,0 +1,10 @@
+Ans 1: Option a.) A design pattern which implements Inversion of Control for software applications.
+
+Ans 2: Option a.) Getting data from the Database
+
+Ans 3: Option b.) Object
+
+Ans 4: Option e.) All of the above
+
+Ans 5: Option b.) Apache Tomcat
+
